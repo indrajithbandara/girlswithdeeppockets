@@ -1,0 +1,430 @@
+body {
+  color: rgb(13, 13, 13);
+  background: rgb(217, 217, 217);
+  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #660066;
+}
+a:visited {
+  color: #B212B2;
+}
+.logo {
+  background-image: url("images/logo.png");
+}
+.archive-article-header a,
+.layout-wrap-inner.tag-cloud a,
+.timeline-row .content h1 a,
+.archive-article-header a:visited,
+.layout-wrap-inner.tag-cloud a:visited,
+.timeline-row .content h1 a:visited {
+  color: rgb(13, 13, 13);
+}
+.archive-article-header a:hover,
+.layout-wrap-inner.tag-cloud a:hover,
+.timeline-row .content h1 a:hover,
+.archive-article-header a:visited:hover,
+.layout-wrap-inner.tag-cloud a:visited:hover,
+.timeline-row .content h1 a:visited:hover {
+  color: #660066;
+}
+.article-entry h6,
+.widget h6 {
+  color: rgb(127, 127, 127);
+}
+.article-entry hr,
+.widget hr {
+  border: 1px dashed rgb(217, 217, 217);
+}
+#header a,
+#header a:visited {
+  color: rgb(13, 13, 13);
+}
+#header a:hover {
+  color: #660066;
+}
+.header-sub {
+  border-top: 1px solid rgb(217, 217, 217);
+}
+#search-form-wrap .search-form .search-form-submit:hover,
+#search-form-wrap .search-form .search-form-submit:focus {
+  color: rgb(13, 13, 13);
+}
+.search-form-input,
+.search-form-input.ins-search-input,
+.search-form-input.st-ui-search-input,
+.search-form-input.st-default-search-input {
+  color: rgb(13, 13, 13);
+  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  border: 1px solid rgb(217, 217, 217) !important;
+}
+.search-form-input:focus,
+.search-form-input.ins-search-input:focus,
+.search-form-input.st-ui-search-input:focus,
+.search-form-input.st-default-search-input:focus {
+  border-color: #660066 !important;
+}
+.profile-block {
+  border-bottom: 1px solid rgb(217, 217, 217);
+}
+#profile .inner {
+  background: white;
+}
+#profile .inner .base-info #location {
+  color: rgb(127, 127, 127);
+}
+#profile .inner .base-info #follow {
+  color: white;
+  background: #660066;
+}
+#profile .inner .base-info #follow:hover {
+  background: #660066;
+}
+#profile .inner .article-info .article-info-block:first-child {
+  border-right: 1px solid rgb(217, 217, 217);
+}
+#profile .inner .social-links > table td a {
+  color: rgb(127, 127, 127);
+}
+#profile .inner .social-links > table td a:hover {
+  color: rgb(13, 13, 13);
+}
+#profile .inner .social-links > table td a.tooltip:hover:after {
+  color: white;
+  background: rgb(13, 13, 13);
+  box-shadow: 0 0 2px rgba(0,0,0,0.2);
+}
+#profile .inner .social-links > table td a.tooltip:hover:before {
+  border-color: rgb(13, 13, 13) transparent;
+}
+.article-title {
+  color: rgb(13, 13, 13);
+}
+a.article-title:visited {
+  color: rgb(13, 13, 13);
+}
+a.article-title:hover {
+  color: #660066;
+}
+.article-meta a {
+  color: rgb(13, 13, 13);
+}
+.article-meta a:hover {
+  color: #660066;
+}
+.article-entry {
+  color: rgb(13, 13, 13);
+}
+.article-entry a {
+  color: #660066;
+}
+.article-entry th {
+  border-bottom: 3px solid rgb(217, 217, 217);
+}
+.article-entry td {
+  border-bottom: 1px solid rgb(217, 217, 217);
+  padding: 10px 0;
+}
+.article-entry blockquote {
+  font-family: Georgia, "Times New Roman", "Microsoft Yahei", serif;
+  background: rgb(217, 217, 217);
+  border-left: 4px solid rgb(217, 217, 217);
+}
+.article-entry blockquote:before {
+  color: rgb(127, 127, 127);
+}
+.article-entry blockquote footer {
+  font-family: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+}
+.article-entry .caption {
+  color: rgb(127, 127, 127);
+}
+.article-more-link a {
+  background: rgb(217, 217, 217);
+  color: rgb(127, 127, 127);
+}
+.article-more-link a:hover {
+  background: #660066;
+  color: white;
+  text-shadow: 0 1px #660066;
+}
+.article-footer {
+  border-top: 1px solid rgb(217, 217, 217);
+}
+.article-footer a {
+  color: rgb(127, 127, 127);
+}
+.article-footer a:hover {
+  color: rgb(13, 13, 13);
+}
+@media screen and (min-width: 1200px) {
+  #article-nav:before {
+    background: rgb(13, 13, 13);
+  }
+}
+.article-nav-link-wrap {
+  color: rgb(127, 127, 127);
+}
+.article-nav-link-wrap:hover {
+  color: rgb(13, 13, 13);
+}
+.article-nav-caption {
+  color: rgb(13, 13, 13);
+}
+.article-nav-title {
+  color: rgb(13, 13, 13);
+}
+.article-share-box {
+  background: white;
+}
+.article-share-input {
+  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  color: rgb(13, 13, 13);
+  border: 1px solid rgb(217, 217, 217);
+}
+.article-share-links {
+  background: rgb(217, 217, 217);
+}
+.article-share-twitter,
+.article-share-facebook,
+.article-share-pinterest,
+.article-share-google {
+  color: rgb(127, 127, 127);
+  text-shadow: 0 1px white;
+}
+.article-share-twitter:hover,
+.article-share-facebook:hover,
+.article-share-pinterest:hover,
+.article-share-google:hover {
+  color: white;
+}
+.article-share-twitter:hover {
+  background: #660066;
+  text-shadow: 0 1px #B212B2;
+}
+.article-share-facebook:hover {
+  background: #3b5998;
+  text-shadow: 0 1px #B212B2;
+}
+.article-share-pinterest:hover {
+  background: #05332C;
+  text-shadow: 0 1px #B212B2;
+}
+.article-share-google:hover {
+  background: #05332C;
+  text-shadow: 0 1px #B212B2;
+}
+.article-gallery {
+  background: black;
+}
+.toc-article {
+  background: rgb(217, 217, 217);
+}
+.archive-year-wrap .archive-year,
+.archive-category-wrap .archive-year,
+.archive-tag-wrap .archive-year,
+.layout-title .archive-year {
+  color: rgb(13, 13, 13);
+}
+.archive-year-wrap .archive-year:hover,
+.archive-category-wrap .archive-year:hover,
+.archive-tag-wrap .archive-year:hover,
+.layout-title .archive-year:hover {
+  color: #660066;
+}
+.archive-article .archive-article-thumbnail .thumbnail .thumbnail-none {
+  background-image: url("images/thumb-default-small.png");
+}
+.layout-wrap-inner.list-categories ul li a,
+.layout-wrap-inner.list-categories ul .category-list-child a {
+  color: rgb(13, 13, 13);
+}
+.layout-wrap-inner.list-categories li a:before {
+  color: rgb(217, 217, 217);
+}
+.layout-wrap-inner.list-categories li a:hover:before {
+  color: rgb(13, 13, 13);
+}
+#page-nav {
+  color: rgb(127, 127, 127);
+}
+#page-nav a {
+  color: rgb(127, 127, 127);
+}
+#page-nav a:hover {
+  color: white;
+  background: #660066;
+}
+#page-nav .current {
+  color: rgb(13, 13, 13);
+}
+#page-nav .space {
+  color: rgb(217, 217, 217);
+}
+.timeline-wrap {
+  border-left: 3px solid rgb(217, 217, 217);
+}
+.timeline-row .node {
+  color: white;
+  background-color: #660066;
+}
+.timeline-row .content:after {
+  border-right-color: white;
+}
+.timeline-row .content:before {
+  border-right-color: rgba(0,0,0,0.05);
+}
+.timeline-row .content .article-meta {
+  color: rgb(127, 127, 127);
+  border-top: 1px solid rgb(217, 217, 217);
+  background-color: rgba(244,246,247,0.2);
+}
+#footer {
+  border-top: 1px solid rgb(217, 217, 217);
+  color: rgb(13, 13, 13);
+}
+#footer a {
+  color: #660066;
+}
+.category-list-count,
+.tag-list-count,
+.archive-list-count {
+  color: rgb(127, 127, 127);
+}
+.widget a {
+  color: rgb(13, 13, 13);
+}
+.widget a:hover {
+  color: rgb(13, 13, 13);
+}
+.widget ul li a,
+.widget ol li a,
+.widget ul .category-list-child a,
+.widget ol .category-list-child a {
+  color: rgb(13, 13, 13);
+}
+.widget ul:not(#recent-post) li a:before,
+.widget ol:not(#recent-post) li a:before {
+  color: rgb(217, 217, 217);
+}
+.widget ul:not(#recent-post) li a:hover:before,
+.widget ol:not(#recent-post) li a:hover:before {
+  color: rgb(13, 13, 13);
+}
+#toTop {
+  color: white;
+  background: rgb(13, 13, 13);
+}
+#recent-post li .item-thumbnail .thumbnail .thumbnail-none {
+  background-image: url("images/thumb-default-small.png");
+}
+#recent-post li .item-inner a a,
+#recent-post li .item-inner .item-category a {
+  color: #660066;
+}
+#recent-post li .item-inner a a:hover,
+#recent-post li .item-inner .item-category a:hover {
+  color: rgb(13, 13, 13);
+}
+#recent-post li .item-inner .item-title a {
+  color: rgb(13, 13, 13);
+}
+#recent-post li .item-inner .item-date {
+  color: rgb(127, 127, 127);
+}
+#recent-post li:hover .item-title a {
+  color: #660066;
+}
+.ins-search-mask {
+  background: rgba(0,0,0,0.5);
+}
+.ins-search-input {
+  background: white;
+  border-bottom: 1px solid rgb(127, 127, 127);
+  font-family: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+}
+.ins-close:hover {
+  color: #660066;
+}
+@media screen and (max-width: 559px), screen and (max-height: 479px) {
+  .ins-search-container {
+    background: rgb(217, 217, 217);
+  }
+}
+.ins-section-container {
+  background: rgb(217, 217, 217);
+}
+.ins-section .ins-section-header {
+  color: rgb(127, 127, 127);
+  border-bottom: 1px solid rgb(127, 127, 127);
+}
+.ins-section .ins-slug {
+  color: rgb(127, 127, 127);
+}
+.ins-section .ins-search-item .ins-search-preview {
+  color: rgb(127, 127, 127);
+}
+.ins-section .ins-search-item:hover,
+.ins-section .ins-search-item.active {
+  color: white;
+  background: #660066;
+}
+.ins-section .ins-search-item:hover .ins-slug,
+.ins-section .ins-search-item.active .ins-slug,
+.ins-section .ins-search-item:hover .ins-search-preview,
+.ins-section .ins-search-item.active .ins-search-preview {
+  color: white;
+}
+.highlight {
+  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
+}
+.highlight .gutter pre {
+  color: rgb(13, 13, 13);
+}
+.highlight {
+  color: rgb(217, 217, 217);
+  background: rgb(13, 13, 13);
+}
+.highlight .code .tag,
+.highlight .code .keyword,
+.highlight .code .selector-tag,
+.highlight .code .literal,
+.highlight .code .strong,
+.highlight .code .name {
+  color: #B212B2;
+}
+.highlight .code .code {
+  color: #09B299;
+}
+.highlight .code .class .title {
+  color: white;
+}
+.highlight .code .attribute,
+.highlight .code .symbol,
+.highlight .code .regexp,
+.highlight .code .link {
+  color: #05332C;
+}
+.highlight .code .string,
+.highlight .code .bullet,
+.highlight .code .subst,
+.highlight .code .title,
+.highlight .code .section,
+.highlight .code .emphasis,
+.highlight .code .type,
+.highlight .code .built_in,
+.highlight .code .builtin-name,
+.highlight .code .selector-attr,
+.highlight .code .selector-pseudo,
+.highlight .code .addition,
+.highlight .code .variable,
+.highlight .code .template-tag,
+.highlight .code .template-variable {
+  color: #05332C;
+}
+.highlight .code .comment,
+.highlight .code .quote,
+.highlight .code .deletion,
+.highlight .code .meta {
+  color: rgb(13, 13, 13);
+}

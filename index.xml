@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Girls with Deep Pockets</title>
+    <link>http://girlswithdeeppockets.com/index.xml</link>
+    <description>Recent content on Girls with Deep Pockets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Stephanie Locke. Site made using [Hugo](//gohugo.io) and the [Icarus](https://github.com/digitalcraftsman/hugo-icarus-theme) theme.</copyright>
+    <lastBuildDate>Wed, 26 Oct 2016 21:49:20 +0200</lastBuildDate>
+    <atom:link href="http://girlswithdeeppockets.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About GwDP</title>
+      <link>http://girlswithdeeppockets.com/about-gwdp</link>
+      <pubDate>Wed, 26 Oct 2016 21:49:20 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/about-gwdp</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;Girls with Deep Pockets&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m Steph and I&amp;rsquo;ve been continuously disappointed by the lack of pockets in my clothes for years. They&amp;rsquo;re either missing, fake, or hopelessly inadequate for fitting anything reasonable like a phone in them.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t know whether it&amp;rsquo;s the fashion industry&amp;rsquo;s focus on trying to make us look awesome, and sacrificing convenience on the way, or whether it&amp;rsquo;s actually a conspiracy to force us into the purchase of handbags, and adding dramatically to their bottom line.&lt;/p&gt;
+
+&lt;p&gt;Irrespective of the cause, I want to combat this! I want to celebrate the awesome people out there giving pockets to the masses. I want to know where I can buy these nifty bits of apparel. &lt;em&gt;I want to put my phone in a frickin&amp;rsquo; pocket and not worry about it falling out.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So please join me in my quest!&lt;/p&gt;
+
+&lt;p&gt;If you can recommend a clothing line, a website, or simply want to show off a purchase, here is the place to do it. Currently, the ways of helping involve &lt;a href=&#34;https://1drv.ms/xs/s!AiZm2P6YHtSfiW39itkxlFlmu4gt&#34;&gt;filling out this quick form&lt;/a&gt; or if you&amp;rsquo;re feeling technical, you can &lt;a href=&#34;http://girlswithdeeppockets.com/submitting-a-post&#34;&gt;submit your own post&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Submitting a post</title>
+      <link>http://girlswithdeeppockets.com/submitting-a-post</link>
+      <pubDate>Wed, 26 Oct 2016 16:56:43 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/submitting-a-post</guid>
+      <description>
+
+&lt;p&gt;To submit a post directly to the site, then at the moment it requires you to be reasonably comfortable with GitHub and markdown.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If that&amp;rsquo;s put you off, simply fill in &lt;a href=&#34;https://1drv.ms/xs/s!AiZm2P6YHtSfiW39itkxlFlmu4gt&#34;&gt;this form&lt;/a&gt; which asks you for information and we&amp;rsquo;ll get around to penning a blog post on your behalf.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;getting-ready-to-write-your-post&#34;&gt;Getting ready to write your post&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://guides.github.com/activities/forking/&#34;&gt;Fork&lt;/a&gt; this &lt;a href=&#34;https://github.com/stephlocke/girlswithdeeppockets&#34;&gt;repository (stephlocke/girlswithdeeppockets)&lt;/a&gt; to your own GitHub account&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/cloning-a-repository/&#34;&gt;Clone&lt;/a&gt; this to your computer&lt;/li&gt;
+&lt;li&gt;Create a new file called &lt;code&gt;[SOMETHINGRELEVANT].md&lt;/code&gt; in &lt;code&gt;girlswithdeeppockets\content\post&lt;/code&gt; and copy the typical header content into the top of the file and amend it&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code&gt;+++
+title = &amp;quot;Submitting a post&amp;quot;
+date = &amp;quot;2016-10-26T16:56:43+02:00&amp;quot;
+tags = [&amp;quot;gwdp&amp;quot;,&amp;quot;using the site&amp;quot;]
+categories = [&amp;quot;gwdp&amp;quot;]
+menu = &amp;quot;&amp;quot;
+images = []
+banner = &amp;quot;banners/placeholder.png&amp;quot;
+draft = false
++++
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;writing-your-post&#34;&gt;Writing your post&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://gohugo.io/content/example/&#34;&gt;markdown&lt;/a&gt; to write your piece.&lt;/li&gt;
+&lt;li&gt;Add a good quality image into &lt;code&gt;static/banners&lt;/code&gt; and amend the reference in the header&lt;/li&gt;
+&lt;li&gt;Add tags and categories that make sense to the header info&lt;/li&gt;
+&lt;li&gt;Verify your markdown and spelling on &lt;a href=&#34;https://stackedit.io/editor&#34;&gt;StackEdit&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;submitting-your-post&#34;&gt;Submitting your post&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Using git, add any new files, commit them, and push the change to GitHub&lt;/li&gt;
+&lt;li&gt;Alternatively, you can upload your files &lt;a href=&#34;https://help.github.com/articles/adding-a-file-to-a-repository/&#34;&gt;directly to GitHub&lt;/a&gt; since you probably won&amp;rsquo;t be making changes to any existing content&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.github.com/articles/creating-a-pull-request/&#34;&gt;Submit a pull request&lt;/a&gt; to the main repository for us to incorporate into the site&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;submission-guidelines&#34;&gt;Submission guidelines&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Make sure to include in the intro who you are and link to your twitter (or some other social media dohicky)&lt;/li&gt;
+&lt;li&gt;Keep it clean! Frick is as hard a swear word allowed&lt;/li&gt;
+&lt;li&gt;You can talk about most pocket related topics like:
+
+&lt;ul&gt;
+&lt;li&gt;An item of clothing you found that has decent pockets&lt;/li&gt;
+&lt;li&gt;A line of clothing that is gives us pockets&lt;/li&gt;
+&lt;li&gt;Tips for adding pockets to outfits&lt;/li&gt;
+&lt;li&gt;Thoughts on how we can tackle a lack of pockets&lt;/li&gt;
+&lt;li&gt;Other resources in the fight for pockets&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pictures are great, the more the merrier, so you can do a gallery or use some &lt;a href=&#34;https://gohugo.io/extras/shortcodes/index.html#figure&#34;&gt;image shortcodes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;{{&amp;lt; gallery
+    &amp;ldquo;/banners/placeholder.png&amp;rdquo;
+    &amp;ldquo;/banners/placeholder.png&amp;rdquo;
+    &amp;ldquo;/banners/placeholder.png&amp;rdquo;
+&amp;gt;}}&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;copyright&#34;&gt;Copyright&lt;/h2&gt;
+
+&lt;p&gt;You&amp;rsquo;ll own the copyright to whatever you write, but you grant us permission to use it on the site, include it in a syndicated feed from the site, and use it for marketing purposes towards getting more pockets on our clothes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
