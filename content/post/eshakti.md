@@ -3,7 +3,7 @@ title = "eShakti"
 date = "2016-10-27T21:49:20+02:00"
 tags = ["clothes with pockets", "online retailer"]
 categories = ["Retailer"]
-menu = "main"
+menu = ""
 banner = "banners/eshakti.jpg"
 +++
 
