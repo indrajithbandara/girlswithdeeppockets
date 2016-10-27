@@ -1,6 +1,6 @@
 +++
 title = "Gudrun Sjödén"
-date = "2016-10-28T21:49:20+02:00"
+date = "2016-10-27T21:49:20+02:00"
 tags = ["clothes with pockets", "online retailer"]
 categories = ["Retailer"]
 menu = ""
