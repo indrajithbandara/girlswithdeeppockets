@@ -11,7 +11,7 @@ draft = false
 
 To submit a post directly to the site, then at the moment it requires you to be reasonably comfortable with GitHub and markdown. 
 
-> If that's put you off, simply fill in [this form](https://1drv.ms/xs/s!AiZm2P6YHtSfiW39itkxlFlmu4gt) which asks you for information and we'll get around to penning a blog post on your behalf.
+> If that's put you off, simply fill in [this form]({{< ref "contact.md" >}} )which asks you for information and we'll get around to penning a blog post on your behalf.
 
 ## Getting ready to write your post
 1. [Fork](https://guides.github.com/activities/forking/) this [repository (stephlocke/girlswithdeeppockets)](https://github.com/stephlocke/girlswithdeeppockets) to your own GitHub account
