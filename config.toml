@@ -22,8 +22,8 @@ theme = "hugo-icarus-theme"
     location = "Utopia, where stuff fits in pockets"
     site_description = "A site celebrating items of women's clothing you can fit a modern phone in!"
     copyright  = "Stephanie Locke. Site made using [Hugo](//gohugo.io) and the [Icarus](https://github.com/digitalcraftsman/hugo-icarus-theme) theme."
-    avatar = "imgs/gwdplogo.png"
-    logo = "imgs/gwdplogo.png"
+    avatar = "imgs/gwdplogolight.png"
+    logo = "imgs/gwdplogolight.png"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
