@@ -10,7 +10,8 @@ banner = "banners/typing.jpg"
 draft = false
 +++
 
-Let us know about a great item of clothing, a fab designer or store, or feel free to talk to us about pockets! You can also 
+Let us know about a great item of clothing, a fab designer or store, or feel free to talk to us about pockets! You can also you can [submit your own post]({{< ref "post/submit.md" >}}) if you're feeling technical.
+
 <div id="contactcontainer">
 <form id="contact-form" method="post" action="https://formspree.io/stephanie.g.locke+gwdpformspree@gmail.com">
 <input type="hidden" name="_subject" value="GDWP contact">
