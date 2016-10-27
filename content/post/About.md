@@ -4,7 +4,7 @@ date = "2016-10-26T21:49:20+02:00"
 tags = ["gwdp", "mission statement"]
 categories = ["GWDP"]
 menu = "main"
-banner = "banners/typing.jpg"
+banner = "banners/businesscardmeme.jpg"
 +++
 
 Welcome to **Girls with Deep Pockets**!

@@ -6,7 +6,7 @@ tags = ["gwdp","using the site"]
 categories = ["gwdp"]
 menu = "main"
 images = []
-banner = "banners/coding.jpg"
+banner = "banners/typing.jpg"
 draft = false
 +++
 
