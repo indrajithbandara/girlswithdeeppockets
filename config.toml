@@ -51,7 +51,7 @@ theme = "hugo-icarus-theme"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/stephlocke"
+    follow_button = "https://twitter.com/gwdeeppockets"
 
 
 [social]
