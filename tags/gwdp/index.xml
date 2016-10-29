@@ -10,6 +10,18 @@
     <atom:link href="http://girlswithdeeppockets.com/tags/gwdp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Social Pockets</title>
+      <link>http://girlswithdeeppockets.com/tweetstreams/</link>
+      <pubDate>Sat, 29 Oct 2016 16:56:43 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/tweetstreams/</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; data-lang=&#34;en&#34; data-partner=&#34;tweetdeck&#34; data-theme=&#34;light&#34; data-link-color=&#34;#660066&#34; href=&#34;https://twitter.com/gwdeeppockets/timelines/792283193290461185&#34;&gt;Got Pockets - Curated tweets by gwdeeppockets&lt;/a&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; data-lang=&#34;en&#34; data-partner=&#34;tweetdeck&#34; data-link-color=&#34;#660066&#34; href=&#34;https://twitter.com/gwdeeppockets/timelines/792283338597928961&#34;&gt;Where&amp;#39;s my Pockets - Curated tweets by gwdeeppockets&lt;/a&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About GwDP</title>
       <link>http://girlswithdeeppockets.com/about-gwdp</link>
       <pubDate>Wed, 26 Oct 2016 21:49:20 +0200</pubDate>
