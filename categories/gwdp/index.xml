@@ -10,6 +10,29 @@
     <atom:link href="http://girlswithdeeppockets.com/categories/gwdp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Building cool stuff</title>
+      <link>http://girlswithdeeppockets.com/building-cool-stuff</link>
+      <pubDate>Sun, 30 Oct 2016 10:49:20 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/building-cool-stuff</guid>
+      <description>&lt;p&gt;I (Steph), the main author, am a techy and in particular I&amp;rsquo;m a data focussed techy who loves building open source things. One of the nifty things I think that could be done with this site is use it to build some cool open source tools for bringing the message of pockets to the masses!&lt;/p&gt;
+
+&lt;p&gt;We can do things like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;commiserating with people who are lacking pockets (not funds, but actual pockets)&lt;/li&gt;
+&lt;li&gt;celebrating with people who do have pockets&lt;/li&gt;
+&lt;li&gt;promoting companies who are showcasing products that have lots of pockets and are aimed at women&lt;/li&gt;
+&lt;li&gt;gathering pocket related news from the internet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As well nifty analytical challenges, there are also other technical and non-technical ways to get involved with the site, from extending the site to writing posts.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to get involved, talk to us initially in the comments whilst we get the mechanisms sorted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About GwDP</title>
       <link>http://girlswithdeeppockets.com/about-gwdp</link>
       <pubDate>Wed, 26 Oct 2016 21:49:20 +0200</pubDate>
