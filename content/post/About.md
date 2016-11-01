@@ -4,6 +4,7 @@ date = "2016-10-26T21:49:20+02:00"
 tags = ["gwdp", "mission statement"]
 categories = ["GWDP"]
 menu = "main"
+images = ["banners/businesscardmeme.jpg"]
 banner = "banners/businesscardmeme.jpg"
 +++
 

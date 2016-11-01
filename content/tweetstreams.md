@@ -5,7 +5,7 @@ date = "2016-10-29T16:56:43+02:00"
 tags = ["gwdp","twitter","pocket status"]
 categories = ["social"]
 menu = "main"
-images = []
+images = ["banners/typing.jpg"]
 draft = false
 +++
 

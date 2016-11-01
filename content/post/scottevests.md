@@ -5,6 +5,7 @@ tags = ["clothes with pockets", "online retailer"]
 categories = ["Retailer"]
 menu = ""
 draft = false
+images = ["banners/scottevest.jpg"]
 banner = "banners/scottevest.jpg"
 +++
 

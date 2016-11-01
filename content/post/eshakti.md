@@ -4,6 +4,7 @@ date = "2016-10-27T21:49:20+02:00"
 tags = ["clothes with pockets", "online retailer"]
 categories = ["Retailer"]
 menu = ""
+images = ["banners/eshakti.jpg"]
 banner = "banners/eshakti.jpg"
 +++
 

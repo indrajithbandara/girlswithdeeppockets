@@ -5,6 +5,7 @@ tags = ["gwdp", "machine learning", "open source"]
 categories = ["gwdp"]
 menu = ""
 draft = false
+images = ["banners/coding.jpg"]
 banner = "banners/coding.jpg"
 +++
 

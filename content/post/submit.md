@@ -4,7 +4,7 @@ date = "2016-10-26T16:56:43+02:00"
 tags = ["gwdp","using the site"]
 categories = ["gwdp"]
 menu = ""
-images = []
+images = ["banners/coding.jpg"]
 banner = "banners/coding.jpg"
 draft = false
 +++

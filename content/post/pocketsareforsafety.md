@@ -5,6 +5,7 @@ tags = ["case for pockets", "safety", "editorial"]
 categories = ["Editorial"]
 menu = ""
 draft = false
+images = ["banners/StockSnap_95RED7F98O.jpg"]
 banner = "banners/StockSnap_95RED7F98O.jpg"
 +++
 
