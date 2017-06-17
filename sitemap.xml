@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://girlswithdeeppockets.com/</loc>
+    <loc>http://girlswithdeeppockets.com/poche-posh/</loc>
+    <lastmod>2017-06-17T11:23:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/articles-worth-reading-1st-nov-2016/</loc>
     <lastmod>2016-11-01T10:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/articles-worth-reading-1st-nov-2016</loc>
-    <lastmod>2016-11-01T10:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://girlswithdeeppockets.com/pockets-are-for-safety</loc>
+    <loc>http://girlswithdeeppockets.com/pockets-are-for-safety/</loc>
     <lastmod>2016-10-31T10:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/building-cool-stuff</loc>
+    <loc>http://girlswithdeeppockets.com/building-cool-stuff/</loc>
     <lastmod>2016-10-30T10:49:20+02:00</lastmod>
   </url>
   
@@ -27,22 +28,22 @@
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/scottevest</loc>
+    <loc>http://girlswithdeeppockets.com/scottevest/</loc>
     <lastmod>2016-10-28T10:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/gudrun-sj%C3%B6d%C3%A9n</loc>
+    <loc>http://girlswithdeeppockets.com/gudrun-sj%C3%B6d%C3%A9n/</loc>
     <lastmod>2016-10-27T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/eshakti</loc>
+    <loc>http://girlswithdeeppockets.com/eshakti/</loc>
     <lastmod>2016-10-27T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/about-gwdp</loc>
+    <loc>http://girlswithdeeppockets.com/about-gwdp/</loc>
     <lastmod>2016-10-26T21:49:20+02:00</lastmod>
   </url>
   
@@ -52,8 +53,139 @@
   </url>
   
   <url>
-    <loc>http://girlswithdeeppockets.com/submitting-a-post</loc>
+    <loc>http://girlswithdeeppockets.com/submitting-a-post/</loc>
     <lastmod>2016-10-26T16:56:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/case-for-pockets/</loc>
+    <lastmod>2016-10-31T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/clothes-with-pockets/</loc>
+    <lastmod>2017-06-17T11:23:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/categories/coverage/</loc>
+    <lastmod>2016-11-01T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/editorial/</loc>
+    <lastmod>2016-10-31T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/categories/editorial/</loc>
+    <lastmod>2016-10-31T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/</loc>
+    <lastmod>2017-06-17T11:23:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/gwdp/</loc>
+    <lastmod>2016-10-30T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/categories/gwdp/</loc>
+    <lastmod>2016-10-30T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/machine-learning/</loc>
+    <lastmod>2016-10-30T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/mission-statement/</loc>
+    <lastmod>2016-10-26T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/online-retailer/</loc>
+    <lastmod>2017-06-17T11:23:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/open-source/</loc>
+    <lastmod>2016-10-30T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/pocket-articles/</loc>
+    <lastmod>2016-11-01T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/pocket-status/</loc>
+    <lastmod>2016-10-29T16:56:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/post/</loc>
+    <lastmod>2017-06-17T11:23:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/categories/retailer/</loc>
+    <lastmod>2017-06-17T11:23:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/safety/</loc>
+    <lastmod>2016-10-31T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/categories/social/</loc>
+    <lastmod>2016-10-29T16:56:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/</loc>
+    <lastmod>2016-10-31T10:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/twitter/</loc>
+    <lastmod>2016-10-29T16:56:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://girlswithdeeppockets.com/tags/using-the-site/</loc>
+    <lastmod>2016-10-26T16:56:43+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

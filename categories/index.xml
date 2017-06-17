@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Girls with Deep Pockets</title>
+    <link>http://girlswithdeeppockets.com/categories/</link>
+    <description>Recent content in Categories on Girls with Deep Pockets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Stephanie Locke. Site made using [Hugo](//gohugo.io) and the [Icarus](https://github.com/digitalcraftsman/hugo-icarus-theme) theme.</copyright>
+    
+	<atom:link href="http://girlswithdeeppockets.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coverage</title>
+      <link>http://girlswithdeeppockets.com/categories/coverage/</link>
+      <pubDate>Tue, 01 Nov 2016 10:49:20 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/categories/coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial</title>
+      <link>http://girlswithdeeppockets.com/categories/editorial/</link>
+      <pubDate>Mon, 31 Oct 2016 10:49:20 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/categories/editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwdp</title>
+      <link>http://girlswithdeeppockets.com/categories/gwdp/</link>
+      <pubDate>Sun, 30 Oct 2016 10:49:20 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/categories/gwdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retailer</title>
+      <link>http://girlswithdeeppockets.com/categories/retailer/</link>
+      <pubDate>Sat, 17 Jun 2017 11:23:00 +0100</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/categories/retailer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>http://girlswithdeeppockets.com/categories/social/</link>
+      <pubDate>Sat, 29 Oct 2016 16:56:43 +0200</pubDate>
+      
+      <guid>http://girlswithdeeppockets.com/categories/social/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
